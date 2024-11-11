@@ -1,0 +1,6 @@
+start the server by command:
+nodemon index.js
+
+Create a .env file and store these variable:
+MONGODB_URI = 'yourownmongodb_uri'
+SECRET = 'any content'
