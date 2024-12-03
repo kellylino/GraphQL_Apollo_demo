@@ -78,27 +78,3 @@ const books = [
 
 module.exports = { authors, books };
 
-
-
-//  //Insert authors
-//  await Author.insertMany(authors);
-//  console.log('Authors saved!')
-
-//  //Insert books
-//  for (const bookData of books) {
-//    const author = await Author.findOne({ name: bookData.author });
-//    if (!author) {
-//      console.log(`Author ${bookData.author} not found for book ${bookData.title}`);
-//      continue;
-//    }
-
-//    const book = new Book({
-//      title: bookData.title,
-//      published: bookData.published,
-//      author: author._id,  // Referencing the author's ObjectId
-//      genres: bookData.genres,
-//    });
-
-//    await book.save();
-//    console.log(`Book ${book.title} saved!`);
-//  }
