@@ -25,11 +25,7 @@ It highlights seamless communication between the frontend and backend while inte
 
 ## Technologies Used
 
-- **Frontend**: React.js with Apollo Client
-- **Backend**: Node.js with Apollo Server
-- **Database**: MongoDB
-- **Tools**: GraphQL Playground
-- **Languages**: JavaScript (ES6+)
+ - React, Apollo Client, Apollo Server, GraphQL, MongoDB, JWT, Express.js.
 
 ## How to Run the Project
 
