@@ -25,7 +25,7 @@ It highlights seamless communication between the frontend and backend while inte
 
 ## Technologies Used
 
- - React, Apollo Client, Apollo Server, GraphQL, MongoDB, JWT, Express.js.
+React, Apollo Client, Apollo Server, GraphQL, MongoDB, JWT, Express.js.
 
 ## How to Run the Project
 
